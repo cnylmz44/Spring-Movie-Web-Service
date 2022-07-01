@@ -1,0 +1,33 @@
+package springmovie.business.concretes;
+
+import java.util.List;
+
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Component;
+import org.springframework.web.client.RestTemplate;
+
+import springmovie.business.abstracts.IMovieService;
+import springmovie.entities.Movie;
+
+@Component
+public class MovieManager implements IMovieService{
+
+	@Override
+	public List<Movie> search(String movieName) {
+		// TODO Auto-generated method stub
+		RestTemplate client = new RestTemplate();
+		HttpHeaders headers = new HttpHeaders();
+		headers.add("content-type","application/json");
+		headers.add("authorization","apikey 2nQdEnX6qpUmaoIT9WPANc:4XK9FD3scr56zboC47Zmp8");
+		String url = "https://api.collectapi.com/imdb/imdbSearchByName?query=" + name;
+		//System.out.println(url);
+		HttpEntity<?> requestEntity = new HttpEntity<>(headers);
+		ResponseEntity<String> response = client.exchange(url, HttpMethod.GET, requestEntity, String.class);
+		
+		return null;
+	}
+
+}

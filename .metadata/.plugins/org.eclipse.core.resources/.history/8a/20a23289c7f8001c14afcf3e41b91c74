@@ -1,0 +1,12 @@
+package springmovie.business.abstracts;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.PathVariable;
+
+import springmovie.entities.Movie;
+
+public interface IMovieService {
+	public List<Movie> search(String name);
+	public List<Movie> addToList(String id);
+}

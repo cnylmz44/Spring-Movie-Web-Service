@@ -1,0 +1,30 @@
+package springmovie.controllers;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import springmovie.business.abstracts.IMovieService;
+import springmovie.entities.Movie;
+
+@RestController
+@RequestMapping("/movies")
+public class MovieController {
+	
+	private IMovieService movieService;
+	
+	@Autowired
+	public MovieController(IMovieService movieService) {
+		this.movieService = movieService;
+	}
+	
+	@RequestMapping(path = "/search", method = RequestMethod.GET)
+	public List<Movie> search(@RequestParam(name = "movie-name") String name) {		
+		
+		return this.movieService.search(name);
+	}
+}

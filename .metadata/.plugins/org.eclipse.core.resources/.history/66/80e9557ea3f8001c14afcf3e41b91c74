@@ -1,0 +1,5 @@
+package springmovie.controllers;
+
+public class MovieController {
+
+}

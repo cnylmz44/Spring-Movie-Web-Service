@@ -1,0 +1,11 @@
+package springmovie.dataAccess.abstracts;
+
+import java.util.List;
+
+import springmovie.entities.Movie;
+import springmovie.entities.MovieDetail;
+
+public interface MovieDao {
+	public List<Movie> getMovies(String name);
+	public MovieDetail getMovieDetail(String id);
+}

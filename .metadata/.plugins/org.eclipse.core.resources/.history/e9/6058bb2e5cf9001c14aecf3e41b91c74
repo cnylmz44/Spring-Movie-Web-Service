@@ -1,0 +1,16 @@
+package springmvc;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class DatabaseUserService implements IUserService {
+
+	@Autowired
+	private SessionFactory factory;
+
+	@Override
+	public User findById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

@@ -1,0 +1,5 @@
+package springmovie.business.concretes;
+
+public class MovieManager {
+
+}

@@ -1,0 +1,24 @@
+package springmovie.dataAccess.concretes;
+
+import java.util.List;
+
+import springmovie.dataAccess.abstracts.MovieDao;
+import springmovie.entities.Movie;
+import springmovie.entities.MovieDetail;
+
+public class CollectApiMovieDal implements MovieDao{
+
+	@Override
+	public MovieDetail getMovieDetail(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Movie> getMovies(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

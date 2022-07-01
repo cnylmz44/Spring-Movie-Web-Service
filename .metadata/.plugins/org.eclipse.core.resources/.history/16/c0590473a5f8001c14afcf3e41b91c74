@@ -1,0 +1,5 @@
+package springmovie.entities;
+
+public class Movie {
+
+}

@@ -1,0 +1,44 @@
+package springmovie.dataAccess.concretes;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpHeaders;
+import org.springframework.web.client.RestTemplate;
+
+import springmovie.dataAccess.abstracts.MovieDao;
+import springmovie.entities.Movie;
+import springmovie.entities.MovieDetail;
+
+public class CollectApiMovieDal implements MovieDao{
+	
+	private RestTemplate client;
+	private HttpHeaders headers;
+	private String contentType = "application/json";
+	private String authorizationKey = "apikey 2nQdEnX6qpUmaoIT9WPANc:4XK9FD3scr56zboC47Zmp8";
+	private String getMovieByIdUrl = "https://api.collectapi.com/imdb/imdbSearchByName?query=";
+	private String getMovieByNameUrl = "https://api.collectapi.com/imdb/imdbSearchByName?query=";
+	
+	
+	@Autowired
+	public CollectApiMovieDal() {
+		client = new RestTemplate();
+		headers = new HttpHeaders();
+		headers.add("content-type",contentType);
+		headers.add("authorization",authorizationKey);
+	}
+
+	@Override
+	public MovieDetail getMovieDetailById(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Movie> getMoviesByName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

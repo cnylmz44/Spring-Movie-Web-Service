@@ -1,0 +1,5 @@
+package springmovie.business.abstracts;
+
+public interface IMovieService {
+	
+}

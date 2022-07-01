@@ -1,0 +1,588 @@
+2022-07-01 19:36:42,301 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-01 19:37:06,921 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apo:springmvc:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 19:37:06,921 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apo:springmvc:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 19:37:08,432 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:08,432 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:37:08,437 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:08,438 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:37:09,037 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:09,037 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:37:09,040 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:09,040 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:37:09,868 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apo:springmvc:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 19:37:10,960 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:10,960 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:37:10,964 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:37:10,964 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:38:06,200 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:38:06,201 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:38:06,205 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:38:06,205 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:38:58,135 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:38:58,136 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:38:58,138 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:38:58,138 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:42:49,554 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apache:springmovie:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 19:42:50,084 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:42:50,084 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:42:50,086 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:42:50,087 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:42:50,089 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmovie
+2022-07-01 19:42:50,090 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmovie
+2022-07-01 19:42:50,096 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:44:29,748 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:44:29,748 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:44:29,750 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:44:29,750 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:44:58,466 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:44:58,466 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:44:58,468 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:44:58,468 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 19:45:44,657 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:45:44,658 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 19:45:44,660 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 19:45:44,661 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:38:49,576 [Worker-135: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apache:springmovie:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 00:38:50,458 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.pom
+2022-07-01 00:38:50,685 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.pom
+2022-07-01 00:38:50,793 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.13.3/jackson-base-2.13.3.pom
+2022-07-01 00:38:50,889 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.13.3/jackson-base-2.13.3.pom
+2022-07-01 00:38:50,994 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom
+2022-07-01 00:38:51,094 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom
+2022-07-01 00:38:51,197 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.13/jackson-parent-2.13.pom
+2022-07-01 00:38:51,299 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.13/jackson-parent-2.13.pom
+2022-07-01 00:38:51,365 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/43/oss-parent-43.pom
+2022-07-01 00:38:51,503 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/43/oss-parent-43.pom
+2022-07-01 00:38:51,606 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.pom
+2022-07-01 00:38:51,707 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.pom
+2022-07-01 00:38:51,811 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.pom
+2022-07-01 00:38:51,919 [Worker-135: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.pom
+2022-07-01 00:38:52,019 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar
+2022-07-01 00:38:52,078 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar
+2022-07-01 00:38:52,078 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar
+2022-07-01 00:38:52,276 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar
+2022-07-01 00:38:52,982 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar
+2022-07-01 00:38:53,334 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar
+2022-07-01 00:38:53,773 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:53,773 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:38:53,774 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:53,774 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:38:53,775 [Worker-135: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmovie
+2022-07-01 00:38:53,775 [Worker-135: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmovie
+2022-07-01 00:38:53,777 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:54,175 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:54,175 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:38:54,177 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:54,177 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:38:54,971 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3-sources.jar
+2022-07-01 00:38:55,581 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3-sources.jar
+2022-07-01 00:38:55,610 [Worker-137: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.13.3
+2022-07-01 00:38:55,852 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3-sources.jar
+2022-07-01 00:38:55,994 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3-sources.jar
+2022-07-01 00:38:56,013 [Worker-137: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.13.3
+2022-07-01 00:38:56,256 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3-sources.jar
+2022-07-01 00:38:56,549 [Worker-137: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3-sources.jar
+2022-07-01 00:38:56,570 [Worker-137: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.13.3
+2022-07-01 00:38:56,713 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:56,714 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:38:56,715 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:38:56,715 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:40:04,868 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:40:04,869 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:40:04,870 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:40:04,870 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:53:35,107 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:53:35,107 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:53:35,108 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:53:35,109 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:55:34,571 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:55:34,571 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:55:34,572 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:55:34,572 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 00:56:27,368 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:56:27,368 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 00:56:27,370 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 00:56:27,371 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:00:17,086 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:00:17,086 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:00:17,088 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:00:17,088 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:02:49,029 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:02:49,029 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:02:49,030 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:02:49,030 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:08:29,251 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:08:29,251 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:08:29,252 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:08:29,252 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:11:26,196 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:11:26,196 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:11:26,198 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:11:26,199 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:19:08,364 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:19:08,364 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:19:08,367 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:19:08,367 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:20:44,205 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:20:44,205 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:20:44,207 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:20:44,207 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:21:27,186 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:21:27,186 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:21:27,189 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:21:27,189 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:21:45,824 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:21:45,825 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:21:45,827 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:21:45,827 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:23:44,987 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:23:44,987 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:23:44,989 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:23:44,989 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:43:01,249 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:43:01,250 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:43:01,252 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:43:01,252 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:44:31,905 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:44:31,905 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:44:31,907 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:44:31,908 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:54:02,821 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:02,821 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:54:02,823 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:02,823 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:54:09,545 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:09,545 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:54:09,546 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:09,546 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 01:54:15,806 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:15,806 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 01:54:15,808 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 01:54:15,808 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:07:10,354 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:07:10,355 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:07:10,357 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:07:10,357 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:11:21,122 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:11:21,122 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:11:21,123 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:11:21,124 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:11:26,519 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:11:26,520 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:11:26,521 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:11:26,521 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:13:01,408 [Worker-168: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apache:springmovie:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 02:13:01,623 [Worker-168: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:831) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$26(ProjectRegistryManager.java:1049) ~[na:na]
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1134) ~[na:na]
+	at java.base/java.util.Collections$SynchronizedMap.computeIfAbsent(Collections.java:2682) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$25(ProjectRegistryManager.java:1048) ~[na:na]
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1003) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1048) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:261) ~[na:na]
+	at org.eclipse.m2e.wtp.jaxrs.internal.configurators.JaxRsProjectConfigurator.mavenProjectChanged(JaxRsProjectConfigurator.java:173) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:1056) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:305) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1024) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:254) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:311) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:400) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:403) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:514) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:462) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:544) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-07-01 02:13:01,661 [Worker-168: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmovie
+2022-07-01 02:13:01,661 [Worker-168: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmovie
+2022-07-01 02:13:29,875 [Worker-165: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apache:springmovie:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 02:13:30,203 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:13:30,204 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:13:30,205 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:13:30,205 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:13:30,205 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmovie
+2022-07-01 02:13:30,205 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmovie
+2022-07-01 02:13:30,208 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:13:38,971 [Worker-165: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.apache:springmovie:0.0.1-SNAPSHOT @ /home/canyilmaz/Downloads/project/springmovie/pom.xml.
+2022-07-01 02:13:39,346 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:13:39,346 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:13:39,348 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:13:39,348 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:13:39,348 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmovie
+2022-07-01 02:13:39,348 [Worker-165: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmovie
+2022-07-01 02:13:39,351 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:14:24,147 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:14:24,147 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:14:24,148 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:14:24,148 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:26:50,266 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:26:50,266 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:26:50,268 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:26:50,268 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:37:49,269 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:37:49,269 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:37:49,270 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:37:49,270 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:39:29,664 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:39:29,664 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:39:29,666 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:39:29,667 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:40:21,981 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:40:21,981 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:40:21,983 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:40:21,983 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:41:54,425 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:41:54,426 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:41:54,427 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:41:54,428 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:50:25,198 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:50:25,198 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:50:25,200 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:50:25,200 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:50:45,270 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:50:45,270 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:50:45,271 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:50:45,271 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:53:32,431 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:53:32,431 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:53:32,432 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:53:32,432 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:55:35,719 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:55:35,719 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:55:35,721 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:55:35,721 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:56:04,431 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:56:04,431 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:56:04,433 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:56:04,433 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 02:57:22,761 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:57:22,762 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 02:57:22,763 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 02:57:22,763 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:00:59,298 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:00:59,299 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:00:59,301 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:00:59,302 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:01:36,153 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:01:36,153 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:01:36,154 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:01:36,155 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:02:31,657 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:02:31,657 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:02:31,659 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:02:31,659 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:04:57,010 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:04:57,011 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:04:57,012 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:04:57,012 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:06:22,379 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:06:22,379 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:06:22,380 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:06:22,380 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:06:55,683 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:06:55,683 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:06:55,685 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:06:55,685 [Worker-188: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:09:21,458 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:09:21,458 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:09:21,459 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:09:21,460 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:26:11,548 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:26:11,548 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:26:11,549 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:26:11,549 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:27:37,232 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:27:37,233 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:27:37,234 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:27:37,234 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:32:10,728 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:32:10,728 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:32:10,729 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:32:10,729 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:33:06,751 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:33:06,751 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:33:06,784 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:33:06,785 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:35:33,203 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:35:33,203 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:35:33,204 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:35:33,205 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:36:56,516 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:36:56,517 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:36:56,518 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:36:56,518 [Worker-203: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:39:14,780 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:39:14,780 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:39:14,781 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:39:14,781 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:41:07,714 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:41:07,714 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:41:07,715 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:41:07,715 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:45:49,675 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:45:49,675 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:45:49,677 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:45:49,677 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:48:10,812 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:48:10,813 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:48:10,813 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:48:10,813 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:48:31,289 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:48:31,289 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:48:31,291 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:48:31,291 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:50:02,697 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:50:02,697 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:50:02,698 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:50:02,698 [Worker-212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:51:08,257 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:51:08,257 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:51:08,258 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:51:08,258 [Worker-190: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:51:57,881 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:51:57,882 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:51:57,883 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:51:57,883 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:53:51,071 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:53:51,071 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:53:51,073 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:53:51,073 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:54:20,396 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:54:20,396 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:54:20,398 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:54:20,398 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:55:40,465 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:55:40,465 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:55:40,467 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:55:40,468 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:56:40,013 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:56:40,013 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:56:40,015 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:56:40,015 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:58:43,649 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:58:43,650 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:58:43,651 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:58:43,652 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 03:59:47,447 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:59:47,448 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 03:59:47,449 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 03:59:47,449 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:00:49,902 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:00:49,902 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:00:49,903 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:00:49,904 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:02:02,564 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:02:02,565 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:02:02,567 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:02:02,567 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:09:22,197 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:09:22,197 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:09:22,199 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:09:22,199 [Worker-217: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:14:59,002 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:14:59,002 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:14:59,004 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:14:59,004 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:17:26,101 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:17:26,101 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:17:26,102 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:17:26,102 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:17:39,297 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:17:39,298 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:17:39,299 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:17:39,300 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:18:12,571 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:18:12,572 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:18:12,573 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:18:12,573 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:18:22,395 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:18:22,396 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:18:22,396 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:18:22,396 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:23:09,712 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:23:09,712 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:23:09,713 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:23:09,713 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:23:47,484 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:23:47,484 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:23:47,485 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:23:47,485 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:34:08,702 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:34:08,702 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:34:08,703 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:34:08,703 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:36:11,800 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:36:11,800 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:36:11,801 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:36:11,801 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:40:26,105 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:40:26,106 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:40:26,106 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:40:26,106 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:41:50,085 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:41:50,086 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:41:50,087 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:41:50,087 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:43:18,422 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:43:18,423 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:43:18,424 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:43:18,425 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:44:20,450 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:44:20,450 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:44:20,452 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:44:20,452 [Worker-227: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:52:12,145 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:52:12,146 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:52:12,147 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:52:12,147 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:52:36,849 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:52:36,849 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:52:36,851 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:52:36,851 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:54:11,456 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:54:11,456 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:54:11,457 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:54:11,457 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 04:55:39,208 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:55:39,208 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 04:55:39,209 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 04:55:39,209 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:11:11,355 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-01 10:12:47,298 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:12:47,304 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:12:47,317 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:12:47,318 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:12:49,205 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:12:49,206 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:12:49,207 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:12:49,207 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:31:26,246 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:31:26,246 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:31:26,249 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:31:26,250 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:44:23,717 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:44:23,718 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:44:23,719 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:44:23,720 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:46:50,528 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:46:50,529 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:46:50,531 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:46:50,532 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 10:51:58,285 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:51:58,285 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 10:51:58,287 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 10:51:58,287 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:16:03,713 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:16:03,714 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:16:03,715 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:16:03,716 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:19:32,036 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:19:32,036 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:19:32,040 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:19:32,040 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:22:20,084 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:22:20,084 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:22:20,086 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:22:20,087 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:24:24,512 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:24:24,513 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:24:24,515 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:24:24,515 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:29:59,180 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:29:59,181 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:29:59,186 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:29:59,186 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:30:02,204 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:30:02,205 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:30:02,207 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:30:02,207 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:35:23,795 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:35:23,796 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:35:23,798 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:35:23,799 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:36:43,739 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:36:43,739 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:36:43,742 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:36:43,742 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:48:47,663 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:48:47,663 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:48:47,664 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:48:47,664 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:49:01,788 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:49:01,789 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:49:01,791 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:49:01,792 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:50:01,279 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:50:01,279 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:50:01,281 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:50:01,281 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 11:56:41,976 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:56:41,976 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 11:56:41,977 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 11:56:41,978 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:02:13,816 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:02:13,816 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:02:13,817 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:02:13,817 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:03:16,529 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:03:16,529 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:03:16,531 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:03:16,531 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:14:11,454 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:14:11,455 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:14:11,457 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:14:11,458 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:15:07,993 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:15:07,994 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:15:07,996 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:15:07,996 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:16:32,488 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:16:32,488 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:16:32,489 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:16:32,489 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:19:26,609 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:19:26,609 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:19:26,611 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:19:26,611 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:33:39,836 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:33:39,836 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:33:39,839 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:33:39,839 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:46:06,172 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:46:06,172 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:46:06,173 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:46:06,174 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:51:55,009 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:51:55,009 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:51:55,010 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:51:55,010 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:52:03,360 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:03,361 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:52:03,362 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:03,362 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:52:14,493 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:14,493 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:52:14,494 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:14,494 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:52:35,905 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:35,905 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:52:35,907 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:52:35,907 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources
+2022-07-01 12:53:31,538 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:53:31,538 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/main/resources
+2022-07-01 12:53:31,539 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-01 12:53:31,539 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/canyilmaz/Downloads/project/springmovie/src/test/resources

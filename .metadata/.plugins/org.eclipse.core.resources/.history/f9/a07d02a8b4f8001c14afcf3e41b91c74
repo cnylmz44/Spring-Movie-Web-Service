@@ -1,0 +1,8 @@
+package springmovie.entities;
+
+import java.util.List;
+
+public class MoviesResponse {
+	private boolean success;
+	private List<Movie> result;
+}
