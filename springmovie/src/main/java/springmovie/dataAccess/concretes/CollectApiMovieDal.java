@@ -40,6 +40,7 @@ public class CollectApiMovieDal implements MovieDao{
 	
 	@Autowired
 	public CollectApiMovieDal() {
+		//Default Authorization Settings
 		client = new RestTemplate();
 		headers = new HttpHeaders();
 		headers.add("content-type",contentType);
@@ -64,11 +65,60 @@ public class CollectApiMovieDal implements MovieDao{
 			String title = resultNode.get("Title").toString();
 			String year = resultNode.get("Year").toString();
 			String rated = resultNode.get("Rated").toString();
+			String released = resultNode.get("Released").toString();
+			String runtime = resultNode.get("Runtime").toString();
+			String genre = resultNode.get("Genre").toString();
+			String director = resultNode.get("Director").toString();
+			String writer = resultNode.get("Writer").toString();
+			String actors = resultNode.get("Actors").toString();
+			String plot = resultNode.get("Plot").toString();
+			String language = resultNode.get("Language").toString();
+			String country = resultNode.get("Country").toString();
+			String awards = resultNode.get("Awards").toString();
+			String poster = resultNode.get("Poster").toString();
 			
-			movieDetail.setID(id);
-			movieDetail.setRated(rated);
+//			List<MovieRatingModel> ratings;
+//			ArrayNode ratingsNode = (ArrayNode) resultNode.get("Ratings");
+//			for(int i=0; i<ratingsNode.size();i++) {
+//				JsonNode singleMovie = ratingsNode.get(i);
+//			}
+			
+			String metascore = resultNode.get("Metascore").toString();
+			String imdbRating = resultNode.get("imdbRating").toString();
+			String imdbVotes = resultNode.get("imdbVotes").toString();
+			String imdbID = resultNode.get("imdbID").toString();
+			String type = resultNode.get("Type").toString();
+			String dvd = resultNode.get("DVD").toString();
+			String boxOffice = resultNode.get("BoxOffice").toString();
+			String production = resultNode.get("Production").toString();
+			String website = resultNode.get("Website").toString();
+			String responseMovieDetail = resultNode.get("Response").toString();
+			
 			movieDetail.setTitle(title);
 			movieDetail.setYear(year);
+			movieDetail.setRated(rated);
+			movieDetail.setReleased(released);
+			movieDetail.setRuntime(runtime);
+			movieDetail.setGenre(genre);
+			movieDetail.setDirector(director);
+			movieDetail.setActors(actors);
+			movieDetail.setWriter(writer);
+			movieDetail.setPlot(plot);
+			movieDetail.setLanguage(language);
+			movieDetail.setCountry(country);
+			movieDetail.setAwards(awards);
+			movieDetail.setPoster(poster);
+			movieDetail.setMetascore(metascore);
+			movieDetail.setImdbRating(imdbRating);
+			movieDetail.setImdbVotes(imdbVotes);
+			movieDetail.setImdbID(imdbID);
+			movieDetail.setType(type);
+			movieDetail.setDVD(dvd);
+			movieDetail.setBoxOffice(boxOffice);
+			movieDetail.setProduction(production);
+			movieDetail.setWebsite(website);
+			movieDetail.setResponse(responseMovieDetail);
+			
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
@@ -87,15 +137,41 @@ public class CollectApiMovieDal implements MovieDao{
 			
 			String line;
 			MovieDetail movieDetail = new MovieDetail();
-			
+
 			while((line = bufferedReader.readLine())!=null) {
+				
+				//System.out.println(line);
+				
+				//In movie-list.txt file, movies are listed with '----'
 				String[] parts = line.split("---");
-				if(id.equals(parts[0])) {
+				
+				//parts[17] = getImdbID() + it is formatted like 
+				if(parts[17].contains(id)) {
 					
-					movieDetail.setID(parts[0]);
-					movieDetail.setTitle(parts[1]);
-					movieDetail.setYear(parts[2]);
-					movieDetail.setYear(parts[3]);
+					movieDetail.setTitle(parts[0]);
+					movieDetail.setYear(parts[1]);
+					movieDetail.setRated(parts[2]);
+					movieDetail.setReleased(parts[3]);
+					movieDetail.setRuntime(parts[4]);
+					movieDetail.setGenre(parts[5]);
+					movieDetail.setDirector(parts[6]);
+					movieDetail.setActors(parts[7]);
+					movieDetail.setWriter(parts[8]);
+					movieDetail.setPlot(parts[9]);
+					movieDetail.setLanguage(parts[10]);
+					movieDetail.setCountry(parts[11]);
+					movieDetail.setAwards(parts[12]);
+					movieDetail.setPoster(parts[13]);
+					movieDetail.setMetascore(parts[14]);
+					movieDetail.setImdbRating(parts[15]);
+					movieDetail.setImdbVotes(parts[16]);
+					movieDetail.setImdbID(parts[17]);
+					movieDetail.setType(parts[18]);
+					movieDetail.setDVD(parts[19]);
+					movieDetail.setBoxOffice(parts[20]);
+					movieDetail.setProduction(parts[21]);
+					movieDetail.setWebsite(parts[22]);
+					movieDetail.setResponse(parts[23]);
 					
 					return movieDetail;
 				}
@@ -140,6 +216,7 @@ public class CollectApiMovieDal implements MovieDao{
 					movie.setYear(year);
 					movie.setPoster(poster);
 					movies.add(movie);
+					System.out.println(movie.getTitle());
 				}
 			}
 		} catch (Exception e) {
@@ -152,8 +229,32 @@ public class CollectApiMovieDal implements MovieDao{
 	
 	public boolean writeMovieDetailToFile(MovieDetail movieDetail) {
 		try {
-			String listedMovie = movieDetail.getID() + "---" +  movieDetail.getTitle() + "---" + movieDetail.getYear() + "---" 
-					+ movieDetail.getRated();
+			//Separated with "----"
+			String listedMovie = 					
+			movieDetail.getTitle() + "----"
+			+ movieDetail.getYear() + "----"
+			+ movieDetail.getRated() + "----"
+			+ movieDetail.getReleased() + "----"
+			+ movieDetail.getRuntime() + "----"
+			+ movieDetail.getGenre() + "----"
+			+ movieDetail.getDirector() + "----"
+			+ movieDetail.getActors() + "----"
+			+ movieDetail.getWriter() + "----"
+			+ movieDetail.getPlot() + "----"
+			+ movieDetail.getLanguage() + "----"
+			+ movieDetail.getCountry() + "----"
+			+ movieDetail.getAwards() + "----"
+			+ movieDetail.getPoster() + "----"
+			+ movieDetail.getMetascore() + "----"
+			+ movieDetail.getImdbRating() + "----"
+			+ movieDetail.getImdbVotes() + "----"
+			+ movieDetail.getImdbID() + "----"
+			+ movieDetail.getType() + "----"
+			+ movieDetail.getDVD() + "----"
+			+ movieDetail.getBoxOffice() + "----"
+			+ movieDetail.getProduction() + "----"
+			+ movieDetail.getWebsite() + "----"
+			+ movieDetail.getResponse() + "----";
 
 			System.out.println(listedMovie);
 			
@@ -176,3 +277,4 @@ public class CollectApiMovieDal implements MovieDao{
 	}
 
 }
+

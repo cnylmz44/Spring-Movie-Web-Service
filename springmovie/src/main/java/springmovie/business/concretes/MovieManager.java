@@ -53,6 +53,8 @@ public class MovieManager implements IMovieService{
 	@Override
 	public MovieDetail getMovieDetail(String id) {
 		// TODO Auto-generated method stub
+		
+		// Checking for existing in movie-list
 		if(this.movieDao.getMovieDetailByIdFromFile(id)==null) return this.movieDao.getMovieDetailById(id);
 		else return this.movieDao.getMovieDetailByIdFromFile(id);
 			

@@ -26,19 +26,16 @@ public class MovieController {
 	
 	@RequestMapping(path = "/movies/search", method = RequestMethod.GET)
 	public List<Movie> search(@RequestParam(name = "movie-name") String name) {		
-		
 		return this.movieService.search(name);
 	}
 	
 	@PostMapping("/movies/saveToList/{id}")
 	public boolean addToList(@PathVariable(name = "id") String id){
-        //operations
 		return this.movieService.addToList(id);
     }
 	
 	@RequestMapping(path = "/movies/detail", method = RequestMethod.GET)
     public MovieDetail getMovieDetail(@RequestParam(name = "id") String id){
-        //operations
     	return this.movieService.getMovieDetail(id);
     }
 	

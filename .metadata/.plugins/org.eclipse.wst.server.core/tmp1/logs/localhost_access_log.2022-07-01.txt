@@ -75,3 +75,9 @@
 0:0:0:0:0:0:0:1 - - [01/Jul/2022:12:03:33 +0300] "GET /springmovie/movies/detail?id=tt1375666 HTTP/1.1" 406 810
 0:0:0:0:0:0:0:1 - - [01/Jul/2022:12:52:50 +0300] "GET /springmovie/movies/search?movie-name=inception HTTP/1.1" 406 810
 0:0:0:0:0:0:0:1 - - [01/Jul/2022:12:53:07 +0300] "POST /springmovie/movies/saveToList/tt1375666 HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:05:42 +0300] "GET /springmovie/movies/search?movie-name=inception HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:07:10 +0300] "GET /springmovie/movies/search?movie-name=inception HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:07:27 +0300] "GET /springmovie/movies/search?movie-name=inception HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:07:45 +0300] "POST /springmovie/movies/saveToList/tt1375666 HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:08:26 +0300] "GET /springmovie/movies/detail?id=tt1375666 HTTP/1.1" 406 810
+0:0:0:0:0:0:0:1 - - [01/Jul/2022:14:09:36 +0300] "GET /springmovie/movies/detail?id=tt1375666 HTTP/1.1" 406 810

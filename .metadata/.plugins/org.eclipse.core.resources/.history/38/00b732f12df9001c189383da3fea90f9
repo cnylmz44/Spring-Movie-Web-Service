@@ -1,0 +1,276 @@
+package springmovie.dataAccess.concretes;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Component;
+import org.springframework.web.client.RestTemplate;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ArrayNode;
+
+import springmovie.dataAccess.abstracts.MovieDao;
+import springmovie.entities.Movie;
+import springmovie.entities.MovieDetail;
+import springmovie.entities.MovieRatingModel;
+
+
+@Component
+public class CollectApiMovieDal implements MovieDao{
+	
+	private RestTemplate client;
+	private HttpHeaders headers;
+	private String contentType = "application/json";
+	private String authorizationKey = "apikey 2nQdEnX6qpUmaoIT9WPANc:4XK9FD3scr56zboC47Zmp8";
+	private String getMovieByIdUrl = "https://api.collectapi.com/imdb/imdbSearchById?movieId=";
+	private String getMovieByNameUrl = "https://api.collectapi.com/imdb/imdbSearchByName?query=";
+	private String movieListPath = "/home/canyilmaz/Downloads/movie-list.txt";
+	private HttpEntity<?> requestEntity;
+	
+	
+	@Autowired
+	public CollectApiMovieDal() {
+		client = new RestTemplate();
+		headers = new HttpHeaders();
+		headers.add("content-type",contentType);
+		headers.add("authorization",authorizationKey);
+		requestEntity = new HttpEntity<>(headers);
+	}
+
+	@Override
+	public MovieDetail getMovieDetailById(String id) {
+		// TODO Auto-generated method stub
+		String movieDetailUrl = getMovieByIdUrl + id;
+		HttpEntity<?> requestEntity = new HttpEntity<>(headers);
+		ResponseEntity<String> response = client.exchange(movieDetailUrl, HttpMethod.GET, requestEntity, String.class);
+		String responseBody = response.getBody();
+		//System.out.println(responseBody);
+		ObjectMapper objectMapper = new ObjectMapper();
+		MovieDetail movieDetail = new MovieDetail();
+		try {
+			JsonNode node = objectMapper.readTree(responseBody);
+			JsonNode resultNode = node.get("result");
+			//System.out.println(resultNode);
+			String title = resultNode.get("Title").toString();
+			String year = resultNode.get("Year").toString();
+			String rated = resultNode.get("Rated").toString();
+			String released = resultNode.get("Released").toString();
+			String runtime = resultNode.get("Runtime").toString();
+			String genre = resultNode.get("Genre").toString();
+			String director = resultNode.get("Director").toString();
+			String writer = resultNode.get("Writer").toString();
+			String actors = resultNode.get("Actors").toString();
+			String plot = resultNode.get("Plot").toString();
+			String language = resultNode.get("Language").toString();
+			String country = resultNode.get("Country").toString();
+			String awards = resultNode.get("Awards").toString();
+			String poster = resultNode.get("Poster").toString();
+			
+//			List<MovieRatingModel> ratings;
+//			ArrayNode ratingsNode = (ArrayNode) resultNode.get("Ratings");
+//			for(int i=0; i<ratingsNode.size();i++) {
+//				JsonNode singleMovie = ratingsNode.get(i);
+//			}
+			
+			String metascore = resultNode.get("Metascore").toString();
+			String imdbRating = resultNode.get("imdbRating").toString();
+			String imdbVotes = resultNode.get("imdbVotes").toString();
+			String imdbID = resultNode.get("imdbID").toString();
+			String type = resultNode.get("Type").toString();
+			String dvd = resultNode.get("DVD").toString();
+			String boxOffice = resultNode.get("BoxOffice").toString();
+			String production = resultNode.get("Production").toString();
+			String website = resultNode.get("Website").toString();
+			String responseMovieDetail = resultNode.get("Response").toString();
+			
+			movieDetail.setTitle(title);
+			movieDetail.setYear(year);
+			movieDetail.setRated(rated);
+			movieDetail.setReleased(released);
+			movieDetail.setRuntime(runtime);
+			movieDetail.setGenre(genre);
+			movieDetail.setDirector(director);
+			movieDetail.setActors(actors);
+			movieDetail.setWriter(writer);
+			movieDetail.setPlot(plot);
+			movieDetail.setLanguage(language);
+			movieDetail.setCountry(country);
+			movieDetail.setAwards(awards);
+			movieDetail.setPoster(poster);
+			movieDetail.setMetascore(metascore);
+			movieDetail.setImdbRating(imdbRating);
+			movieDetail.setImdbVotes(imdbVotes);
+			movieDetail.setImdbID(imdbID);
+			movieDetail.setType(type);
+			movieDetail.setDVD(dvd);
+			movieDetail.setBoxOffice(boxOffice);
+			movieDetail.setProduction(production);
+			movieDetail.setWebsite(website);
+			movieDetail.setResponse(responseMovieDetail);
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+		
+		return movieDetail;
+	}
+	
+	@Override
+	public MovieDetail getMovieDetailByIdFromFile(String id) {
+		
+		try {
+			File file = new File(movieListPath);
+			FileReader fileReader = new FileReader(file);
+			BufferedReader bufferedReader = new BufferedReader(fileReader);
+			
+			String line;
+			MovieDetail movieDetail = new MovieDetail();
+
+			while((line = bufferedReader.readLine())!=null) {
+				
+				//System.out.println(line);
+				
+				String[] parts = line.split("---");
+				System.out.println(id);
+				System.out.println(parts[17]);
+				if(id.equals(parts[17])) {
+					
+					movieDetail.setTitle(parts[0]);
+					movieDetail.setYear(parts[1]);
+					movieDetail.setRated(parts[2]);
+					movieDetail.setReleased(parts[3]);
+					movieDetail.setRuntime(parts[4]);
+					movieDetail.setGenre(parts[5]);
+					movieDetail.setDirector(parts[6]);
+					movieDetail.setActors(parts[7]);
+					movieDetail.setWriter(parts[8]);
+					movieDetail.setPlot(parts[9]);
+					movieDetail.setLanguage(parts[10]);
+					movieDetail.setCountry(parts[11]);
+					movieDetail.setAwards(parts[12]);
+					movieDetail.setPoster(parts[13]);
+					movieDetail.setMetascore(parts[14]);
+					movieDetail.setImdbRating(parts[15]);
+					movieDetail.setImdbVotes(parts[16]);
+					movieDetail.setImdbID(parts[17]);
+					movieDetail.setType(parts[18]);
+					movieDetail.setDVD(parts[19]);
+					movieDetail.setBoxOffice(parts[20]);
+					movieDetail.setProduction(parts[21]);
+					movieDetail.setWebsite(parts[22]);
+					movieDetail.setResponse(parts[23]);
+					
+					return movieDetail;
+				}
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			return null;
+		}
+		
+		return null;
+	}
+
+	@Override
+	public List<Movie> getMoviesByName(String name) {
+		// TODO Auto-generated method stub
+		String movieUrl = getMovieByNameUrl + name;
+		ResponseEntity<String> response = client.exchange(movieUrl, HttpMethod.GET, requestEntity, String.class);
+		String responseBody = response.getBody();
+		//System.out.println(responseBody);
+		ObjectMapper objectMapper = new ObjectMapper();
+		List<Movie> movies = new ArrayList<Movie>();
+		try {
+			JsonNode node = objectMapper.readTree(responseBody);
+			JsonNode resultNode = node.get("result");
+			
+			if(resultNode.isArray()) {
+				ArrayNode moviesNode = (ArrayNode) resultNode;
+				
+				for(int i=0; i<moviesNode.size();i++) {
+					JsonNode singleMovie = moviesNode.get(i);
+					String title = singleMovie.get("Title").toString();
+					String year = singleMovie.get("Year").toString();
+					String imdbId = singleMovie.get("imdbID").toString();
+					String type = singleMovie.get("Type").toString();
+					String poster = singleMovie.get("Poster").toString();
+					
+					Movie movie = new Movie();
+					movie.setImdbID(imdbId);
+					movie.setTitle(title);
+					movie.setType(type);
+					movie.setYear(year);
+					movie.setPoster(poster);
+					movies.add(movie);
+				}
+			}
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+		
+		return movies;
+	}
+	
+	public boolean writeMovieDetailToFile(MovieDetail movieDetail) {
+		try {
+			String listedMovie = 					
+			movieDetail.getTitle() + "----"
+			+ movieDetail.getYear() + "----"
+			+ movieDetail.getRated() + "----"
+			+ movieDetail.getReleased() + "----"
+			+ movieDetail.getRuntime() + "----"
+			+ movieDetail.getGenre() + "----"
+			+ movieDetail.getDirector() + "----"
+			+ movieDetail.getActors() + "----"
+			+ movieDetail.getWriter() + "----"
+			+ movieDetail.getPlot() + "----"
+			+ movieDetail.getLanguage() + "----"
+			+ movieDetail.getCountry() + "----"
+			+ movieDetail.getAwards() + "----"
+			+ movieDetail.getPoster() + "----"
+			+ movieDetail.getMetascore() + "----"
+			+ movieDetail.getImdbRating() + "----"
+			+ movieDetail.getImdbVotes() + "----"
+			+ movieDetail.getImdbID() + "----"
+			+ movieDetail.getType() + "----"
+			+ movieDetail.getDVD() + "----"
+			+ movieDetail.getBoxOffice() + "----"
+			+ movieDetail.getProduction() + "----"
+			+ movieDetail.getWebsite() + "----"
+			+ movieDetail.getResponse() + "----";
+
+			System.out.println(listedMovie);
+			
+			File file = new File(movieListPath);
+			FileWriter fileWriter = new FileWriter(file,true); // for not overwriting to the .txt file
+			BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+			
+			bufferedWriter.write(listedMovie);
+			bufferedWriter.newLine();
+			bufferedWriter.close();
+			fileWriter.close();
+
+			return true;
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+		
+		return false;
+	}
+
+}
+
